@@ -57,8 +57,8 @@ export function About() {
           <h2 className="text-4xl font-black text-center mb-12 text-gray-900">Our Story</h2>
           <div className="max-w-4xl mx-auto space-y-6 text-gray-700 text-lg leading-relaxed">
             <p>
-              Tutora24 was founded by a group of university graduates who experienced firsthand the
-              challenges of finding quality academic support during their studies. We saw talented
+              Tutora24 was founded in northern Italy by two friends, Fayaz Ahmed and Satyajeet Malla, who personally experienced the
+              challenges of finding quality academic support during their studies. They saw talented
               students struggling not because they lacked ability, but because they lacked access
               to the right guidance at the right time.
             </p>
