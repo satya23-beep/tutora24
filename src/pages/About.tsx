@@ -68,12 +68,7 @@ export function About() {
               Economics, Computer Science, Medicine, and Engineering. Each tutor brings real-world
               academic experience and a passion for teaching.
             </p>
-            <p>
-              Today, we're proud to have helped over 50,000 students improve their grades, gain
-              confidence, and achieve their academic goals. Our community of 5,000+ verified
-              tutors continues to grow, bringing diverse expertise and teaching styles to meet
-              every student's unique needs.
-            </p>
+    
           </div>
         </div>
       </section>
